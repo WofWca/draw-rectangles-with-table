@@ -1,0 +1,22 @@
+[
+    {
+        "topLeft":     { "x": 10, "y": 30 },
+        "bottomRight": { "x": 30, "y": 70 }
+    },
+    {
+        "topLeft":     { "x": 40, "y": 60 },
+        "bottomRight": { "x": 70, "y": 100 }
+    },
+    {
+        "topLeft":     { "x": 35, "y": 110 },
+        "bottomRight": { "x": 100, "y": 140 }
+    },
+    {
+        "topLeft":     { "x": 90, "y": 80 },
+        "bottomRight": { "x": 110, "y": 90 }
+    },
+    {
+        "topLeft":     { "x": 150, "y": 10 },
+        "bottomRight": { "x": 190, "y": 150 }
+    }
+]
